@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch=".."
+            />
+  <default revision="master"
+           remote="origin"
+  />
+
+  <project path="romar" name="kdlan/romar" groups="all" />
+  <project path="jeromq" name="kdlan/jeromq" groups="all" />
+
+</manifest>
