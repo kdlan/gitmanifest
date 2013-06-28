@@ -8,7 +8,7 @@
            remote="origin"
   />
 
-  <project path="romar" name="kdlan/romar" groups="all" />
-  <project path="jeromq" name="kdlan/jeromq" groups="all" />
+  <project path="romar" name="romar" groups="all" />
+  <project path="jeromq" name="jeromq" groups="all" />
 
 </manifest>
